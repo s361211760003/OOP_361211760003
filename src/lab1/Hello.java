@@ -11,6 +11,10 @@ public class Hello {
         System.out.println("Kanyanat Thaioon");
 
 
+        System.out.println("Kanyanat");
+
+
+
 
     }//main
 
