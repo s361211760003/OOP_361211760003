@@ -7,7 +7,7 @@ public class Hello {
         System.out.println("Hello World,I am joy");
         System.out.println("MIT");
         System.out.println("Faculty of Management Technology");
-        System.out.println("saiyai");
+        System.out.println("Saiyai");
 
 
 
